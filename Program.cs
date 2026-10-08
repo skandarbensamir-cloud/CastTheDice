@@ -86,16 +86,16 @@ class Program
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Grattis du har vunnit");
                 Console.WriteLine("Vill du spela igen eller är du nöjd");
-                Console.WriteLine("Tryck ja eller nej");
+                Console.WriteLine("Tryck enter eller nej");
                 Console.ResetColor();
 
                  var quit = Console.ReadLine();
                  if(quit == "nej")
                  return;
-                else if(quit == "ja")
+                else if(quit == "")
                 {
                     Console.WriteLine("Bra spelat");
-                    break;
+                    continue;
                 }
                 
                 
