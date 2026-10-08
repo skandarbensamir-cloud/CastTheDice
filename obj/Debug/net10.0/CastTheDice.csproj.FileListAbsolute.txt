@@ -1,0 +1,15 @@
+C:\Users\Skand\CastTheDice\bin\Debug\net10.0\CastTheDice.exe
+C:\Users\Skand\CastTheDice\bin\Debug\net10.0\CastTheDice.deps.json
+C:\Users\Skand\CastTheDice\bin\Debug\net10.0\CastTheDice.runtimeconfig.json
+C:\Users\Skand\CastTheDice\bin\Debug\net10.0\CastTheDice.dll
+C:\Users\Skand\CastTheDice\bin\Debug\net10.0\CastTheDice.pdb
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.AssemblyInfoInputs.cache
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.AssemblyInfo.cs
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.csproj.CoreCompileInputs.cache
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.dll
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\refint\CastTheDice.dll
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.pdb
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.genruntimeconfig.cache
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\ref\CastTheDice.dll
+C:\Users\Skand\CastTheDice\obj\Debug\net10.0\CastTheDice.sourcelink.json
